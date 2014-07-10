@@ -1,6 +1,6 @@
-title:        Hyde
-tagline:      'Hyde, a Jekyll theme'
-description:  'An elegant open source and mobile first theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:        Yphtach Lelkes
+tagline:      ''
+description:  'Assistant Professor of Political Communication. Amsterdam School of Communication Research. University of Amsterdam.'
 url:          http://andhyde.com
 version:      1.1.1
 author:
@@ -10,3 +10,4 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 paginate:     5
+
