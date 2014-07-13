@@ -8,5 +8,5 @@ title: About
 I received my PhD in Communication (with a minor in psychology) from Stanford University, an MA in Political Science from Temple University, and a B.A. in Political Science and Journalism and Mass Communication from the University of Wisconsin–Madison.
 My research has appeared or is forthcoming in various journals across disciplines, including PNAS, Public Opinion Quarterly, Political Psychology, the Journal of Personality and Social Psychology, and the Journal of Experimental Social Psychology.
 
-[Google Scholar Profile](http://scholar.google.nl/citations?user=agGvWl8AAAAJ&hl=en)
+[Google Scholar Profile](http://scholar.google.nl/citations?user=agGvWl8AAAAJ&hl=en) \\
 [Research Gate](https://www.researchgate.net/profile/Yphtach_Lelkes?ev=hdr_xprf)
