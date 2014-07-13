@@ -10,10 +10,4 @@ markdown:     rdiscount
 permalink:    pretty
 pygments:     true
 paginate:     5
-analytics :
-  provider : google
-  google : 'UA-52779584-1'
-  tracking_id : ''
-  getclicky :
-    site_id :
 
