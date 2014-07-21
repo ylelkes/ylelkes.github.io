@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
  
-Lelkes, Y., and Sniderman P.M. (Forthcoming) The Ideological Asymmetry of the American Party System.  \emph{British Journal of Political Science}.
- 
+Lelkes, Y., and Sniderman P.M. (Forthcoming) The Ideological Asymmetry of the American Party System. British Journal of Political Science.
+
 Malka, A., Soto, C., Inzlicht, M. (2014). Do Needs for Security and Certainty Predict Cultural and Economic Conservatism? A Cross-National Analysis. Journal of Personality and Social Psychology.[PDF](https://dl.dropboxusercontent.com/u/42416194/published/Malka-Soto-Inzlicht-Lelkes-in%20press-JPSP.pdf)
 
 Iyengar, S., Sood, G., &amp; Lelkes, Y. (2012). Affect, Not Ideology A Social Identity Perspective on Polarization. Public Opinion Quarterly. [PDF](https://dl.dropboxusercontent.com/u/42416194/published/Public-Opin-Q-2012-Iyengar-poq_nfs038.pdf)
