@@ -15,6 +15,7 @@ Iyengar, S., Sood, G., &amp; Lelkes, Y. (2012). Affect, Not Ideology A Social Id
 *   [The Atlantic](http://www.theatlantic.com/politics/archive/2012/09/really-would-you-let-your-daughter-marry-a-democrat/262959/)
 *   [Mother Jones](http://www.motherjones.com/kevin-drum/2012/09/you-hate-me-now-colorful-chart)
 *   [Wonkblog on Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/06/the-words-hurt-model-of-polarization/?wprss=rss_ezra-klein)
+* [New York Times](http://www.nytimes.com/2015/01/28/opinion/how-did-politics-get-so-personal.html)
 
 Lelkes, Y., Krosnick, J. A., Marx, D. M., Judd, C. M., &amp; Park, B. (2012). Complete Anonymity Compromises the Accuracy of Self-Reports. Journal of Experimental Social Psychology, 48(6), 1291–1299. [PDF](https://dl.dropboxusercontent.com/u/42416194/published/2008_jesp_payne_implicit.pdf)
 
