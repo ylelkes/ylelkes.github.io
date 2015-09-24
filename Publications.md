@@ -2,10 +2,18 @@
 layout: page
 title: Publications
 ---
- 
-Lelkes, Y., and Sniderman P.M. (Forthcoming) The Ideological Asymmetry of the American Party System. British Journal of Political Science.[DOC](https://dl.dropboxusercontent.com/u/42416194/published/bjps-lelkessniderman.docx)
+
+Lelkes, Y. (Forthcoming). Loser’s Consent and the Partisan Press: The Effect of Political Parallelism on the Political Legitimacy Gap. Political Communication. [PDF](https://dl.dropboxusercontent.com/u/42416194/published/lelkespolcomparallelism/pdf)
+
+Lelkes, Y., Sood, G., and Iyengar, S. (Forthcoming). The Hostile Audience: Selective Exposure to Partisan Sources and Affective Polarization. American Journal of Political Science. [PDF](https://dl.dropboxusercontent.com/u/42416194/published/hostileaudience.pdf)
+
+Lelkes, Y., Malka, A., and Sheets, P. (Forthcoming). Democratic Like Us? Political Orientation and the Effect of Making Democracy Salient on Anti-Israel Attitudes. Journal of Experimental Political Science. [PDF] (https://dl.dropboxusercontent.com/u/42416194/published/demlikeus.pdf)
+
+Lelkes, Y., and Sniderman P.M. (Forthcoming) The Ideological Asymmetry of the American Party System. British Journal of Political Science.[DOC] (https://dl.dropboxusercontent.com/u/42416194/published/bjps-lelkessniderman.docx)
 
 *	[New York Times](http://www.nytimes.com/2015/04/22/opinion/obamacare-hands-off-my-medicare.html)
+
+Lelkes, Y., and Weiss, R. (2015). Much Ado About Acquiescence: The Relative Validity and Reliability of Construct-Specific and Agree-Disagree Questions. Research & Politics. [PDF](https://dl.dropboxusercontent.com/u/42416194/published/lelkesweitzrap.pdf)
 
 Malka, A., Soto, C., Inzlicht, M. (2014). Do Needs for Security and Certainty Predict Cultural and Economic Conservatism? A Cross-National Analysis. Journal of Personality and Social Psychology.[PDF](https://dl.dropboxusercontent.com/u/42416194/published/Malka-Soto-Inzlicht-Lelkes-in%20press-JPSP.pdf)
 
