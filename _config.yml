@@ -8,7 +8,7 @@ author:
   email:      ''
 markdown:     rdiscount
 permalink:    pretty
-pygments:     true
+highlighter: pygments
 paginate:     5
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
