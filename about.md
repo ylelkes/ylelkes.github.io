@@ -5,7 +5,7 @@ title: About
 
 <img align="right" src="https://dl.dropboxusercontent.com/u/42416194/ylelkes_01.jpeg"> 
 
-Yphtach (Yph) Lelkes is an Assistant Professor at the Annenberg School for Communication.
+Yphtach (Yph) Lelkes is an Assistant Professor at the Annenberg School for Communication, University of Pennsylvania.
 
 His main focus is on the role of the political information environment in structuring attitudes, with a special interest in the proliferation of digital media. For instance, he has written on affective polarization, or the increasing hostility between Democrats and Republicans, and ways in which the media has contributed to interparty animosity. Another recent project examines ways in higher quality internet has changed citizen engagement, showing that citizens are learning more about politics, but not necessarily participating because of it. Additionally, he has written extensively on the structure of political ideology and identities. In his research, Lelkes relies on a variety of quantitative methods, including survey, field, and natural experiments, as well as survey and geospatial data. 
 
