@@ -1,28 +1,431 @@
----
-layout: nil
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Yphtach Lelkes</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-08-02T08:39:28-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name></name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>ISPP Presentation</title>
+   <link href="http://localhost:4000/2016/07/16/ispp/"/>
+   <updated>2016-07-16T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2016/07/16/ispp</id>
+   <content type="html">&lt;p&gt;In addition to eating lots of perogies, I presented &lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/cues_nfc_pid/presentation/ispp.html&quot;&gt;this presentation&lt;/a&gt;, which is co-authored with Bert Bakker and Ariel Malka on the role of identity and motivated reasoning on the processing of party cues.&lt;/p&gt;
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Various papers accepted</title>
+   <link href="http://localhost:4000/2016/05/06/variousupdates/"/>
+   <updated>2016-05-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2016/05/06/variousupdates</id>
+   <content type="html">&lt;p&gt;Brenes, C., Wojcieszak, M.E., Lelkes, Y., De Vreese, C. (Forthcoming) Motivated Selective Exposure among Issue Publics. Journalism &amp;amp; Mass Communication Quarterly.&lt;/p&gt;
+
+&lt;p&gt;Malka, A., Osborne, D., Soto, C. J., Greaves, L. M., Sibley, C. G., &amp;amp; Lelkes, Y. (Forthcoming). Binding Moral Foundations and the Narrowing of Ideological Conflict to the Traditional Morality Domain. Personality and Social Psychology Bulletin.&lt;/p&gt;
+
+&lt;p&gt;Lelkes, Y. and Westwood, S. (Forthcoming). The Limits of Partisan Discrimination. Journal of Politics.&lt;/p&gt;
+
+&lt;p&gt;Lelkes, Y. (2016). Mass Polarization: Manifestations and Measurements. Public Opinion Quarterly, 80 (S1): 392-410.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Publications</title>
+   <link href="http://localhost:4000/2015/09/17/pubs/"/>
+   <updated>2015-09-17T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/09/17/pubs</id>
+   <content type="html">&lt;p&gt;I’ve had a good month for publications. Three papers accepted!&lt;/p&gt;
+
+&lt;p&gt;Lelkes, Y. (Forthcoming). Loser’s Consent and the Partisan Press: The Effect of Political Parallelism on the Political Legitimacy Gap. Political Communication.&lt;/p&gt;
+
+&lt;p&gt;Lelkes, Y., and Weiss, R. (Forthcoming). Much Ado About Acquiescence: The Relative Validity and Reliability of Construct-Specific and Agree-Disagree Questions. Research and Politics.&lt;/p&gt;
+
+&lt;p&gt;Lelkes, Y., Malka, A., and Sheets, P. (Forthcoming). Democratic Like Us?  Political Orientation and the Effect of Making Democracy Salient on Anti-Israel Attitudes. Journal of Experimental Political Science.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hostile Audience</title>
+   <link href="http://localhost:4000/2015/06/20/ajpshostileaudience/"/>
+   <updated>2015-06-20T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/06/20/ajpshostileaudience</id>
+   <content type="html">&lt;p&gt;Gaurav, Shanto, and I had our paper on polarization and internet access accepted into the AJPS.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Temple Talk</title>
+   <link href="http://localhost:4000/2015/05/05/temple/"/>
+   <updated>2015-05-05T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/05/05/temple</id>
+   <content type="html">&lt;p&gt;I spoke today at my alma mater (MA in political science) on broadband access, selective exposure and polarization. Thanks especially to Kevin Arceneaux for hosting me. Also, fun dinner with Michael Hagen, Nyron Crawford, and Kevin.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Best paper award</title>
+   <link href="http://localhost:4000/2015/05/03/robertasegal/"/>
+   <updated>2015-05-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/05/03/robertasegal</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://stanford.edu/~seanjw/&quot;&gt;Sean Westwood&lt;/a&gt; and I have won the &lt;a href=&quot;http://www.ispp.org/awards/sigel&quot;&gt;2015 Roberta Sigel Junior Scholar Paper Award&lt;/a&gt; from the International Society of Political Psychology for the &lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/workingpapers/Limits_of_Partisan_Discrimination.pdf&quot;&gt;Limits of Partisan Prejudice&lt;/a&gt;.
+&lt;img src=&quot;https://travistation.files.wordpress.com/2012/04/david-hasselhoff-as-michael-knight-in-knightrider-thumbs-up-263w_350h.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Princeton Media and Polarization</title>
+   <link href="http://localhost:4000/2015/05/01/princeton/"/>
+   <updated>2015-05-01T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/05/01/princeton</id>
+   <content type="html">&lt;p&gt;I spoke about our broadband paper today as part of the Political Polarization: Media and Communication Influences conference put together by Sean Westwood and Talia Stroud. Lots of exciting new work in this field.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Asymmetry work in the nytimes</title>
+   <link href="http://localhost:4000/2015/04/24/nytimes/"/>
+   <updated>2015-04-24T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/04/24/nytimes</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.journalism.columbia.edu/profile/35-thomas-b-edsall/10&quot;&gt;Tom Edsall&lt;/a&gt; discussed my work with Paul Sniderman on asymmetry in ideology in his &lt;a href=&quot;http://www.nytimes.com/2015/04/22/opinion/obamacare-hands-off-my-medicare.html?_r=0&quot;&gt;nytimes column&lt;/a&gt;. Namely, he discusses America’s aversion–especially among Republicans–for particularistic policies.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Talk at wisconsin</title>
+   <link href="http://localhost:4000/2015/04/14/wisco/"/>
+   <updated>2015-04-14T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2015/04/14/wisco</id>
+   <content type="html">&lt;p&gt;Speaking today at my alma mater, &lt;a href=&quot;http://journalism.wisc.edu/&quot;&gt;the journalism school at the University of Wisconsin&lt;/a&gt;. &lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/slides/wiscotalk.pdf&quot;&gt;A copy of my slides&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ideological asymmetries</title>
+   <link href="http://localhost:4000/2014/07/21/asymmetries/"/>
+   <updated>2014-07-21T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2014/07/21/asymmetries</id>
+   <content type="html">&lt;p&gt;Paul Sniderman and my paper on ideological asymmetries in American politics has formally been accepted at BJPS. &lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/published/The_Ideological_Asymmetry_of_the_American_Party_System%20%281%29.pdf&quot;&gt;The current draft can be found here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Abstract:
+Most Americans support liberal policies on the Social Welfare agenda, the dominant policy cleavage in American politics. Yet, a striking feature of the American party system is its tendency to equilibrium. How, then, does the Republican Party minimize defection on the Social Welfare agenda? There is, our results show, a deep ideological asymmetry between the parties. Republican identifiers are ideologically aware and oriented to a degree that far exceeds their Democratic counterparts. Our investigation, which utilizes cross-sectional, longitudinal, and experimental data, demonstrates the role of ideological awareness and involvement in the Republicans’ ability to maintain the backing of their supporters even on issues on which the position of the Democratic Party is widely popular. It also exposes two mechanisms, party branding and the use of the status quo as a focal point, by which Democrats retain or rally support on those issues on the Social Welfare agenda on which the position of the Republican Party is widely popular.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Immigrant contact</title>
+   <link href="http://localhost:4000/2014/07/12/enos/"/>
+   <updated>2014-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2014/07/12/enos</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://ryandenos.squarespace.com/&quot;&gt;Ryan Enos&lt;/a&gt; published a fascinating &lt;a href=&quot;http://people.hmdc.harvard.edu/~renos/papers/EnosTrains/EnosTrains.pdf&quot;&gt;study&lt;/a&gt; both methodologically and substantively. The study estimates ``the causal effects of repeated intergroup contact, in which Spanish-speaking confederates were randomly assigned to be inserted, for a period of days, into the daily routines of unknowing Anglo-whites living in homogeneous communities in the United States, thus simulating the conditions of demographic change.’’&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/Kk1MHU7&quot;&gt;&lt;img src=&quot;http://i.imgur.com/Kk1MHU7.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The top line in the figure above shows the ATE of people that had 3 days; the bottom line shows 10 days. Higher values indicate a a larger difference in exclusionary attitudes between treatment and control. The fact that the effects get smaller with more contact adds a wrinkle to the story. Maybe intergroup contact increases threat temporarily. Perhaps after a month or two, the effects may go the other way (more supportive of immigration), and, therefore, in line with Allport and intergroup contact.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Political Knowledge- Not worse than other knowledge</title>
+   <link href="http://localhost:4000/2014/07/11/pk/"/>
+   <updated>2014-07-11T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2014/07/11/pk</id>
+   <content type="html">&lt;p&gt;Democratic rule requires a certain level of political knowledge. 60 years of research indicates we are lacking it. In a &lt;a href=&quot;http://paperroom.ipsa.org/app/webroot/papers/paper_25068.pdf&quot;&gt;working paper&lt;/a&gt;, &lt;a href=&quot;http://people.uncw.edu/burnettc/&quot;&gt;Crag Burnett&lt;/a&gt; and &lt;a href=&quot;http://www.mccubbins.us/&quot;&gt;Matt McCubbins&lt;/a&gt; show people know only slightly more about rules of the road and less about sports, popular culture, geography. Not sure if this is an optimistic story or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://imgur.com/UAR6Fqk&quot;&gt;&lt;img src=&quot;http://i.imgur.com/UAR6Fqk.png&quot; title=&quot;Hosted by imgur.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ISPP</title>
+   <link href="http://localhost:4000/2014/07/10/ispp/"/>
+   <updated>2014-07-10T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2014/07/10/ispp</id>
+   <content type="html">&lt;p&gt;Presented a couple papers this weekend in Rome.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/workingpapers/naturelimits.pdf&quot;&gt;Ideological Asymmetries in the American Party System:  The Power of Ideology in Partisan Politics.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/workingpapers/naturelimits.pdf&quot;&gt;The Nature and Limits of Partisan Prejudice&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>combining reshape and tables packages to make tables</title>
+   <link href="http://localhost:4000/2014/05/02/combining-reshape-and-tables-packages-to-make-tables/"/>
+   <updated>2014-05-02T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2014/05/02/combining-reshape-and-tables-packages-to-make-tables</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.r-statistics.com/author/admin/&quot; rel=&quot;author&quot;&gt;TAL GALILI&lt;/a&gt; wrote a &lt;a href=&quot;http://www.r-statistics.com/2012/01/printing-nested-tables-in-r-bridging-between-the-reshape-and-tables-packages/&quot;&gt;function&lt;/a&gt; that combines two useful packages so you can create a publication quality table with reshape.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ylelkes.com/wp-content/uploads/2014/05/cast_df-to-tabular1.png&quot;&gt;&lt;img class=&quot;alignleft size-full wp-image-371&quot; title=&quot;cast_df-to-tabular&quot; src=&quot;assets/cast_df-to-tabular1.png&quot; alt=&quot;&quot; width=&quot;719&quot; height=&quot;215&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>When attempting to fit the irregular polygon of Nature into the square hole of Theory, all researchers face a strong temptation to lop off the messy corners</title>
+   <link href="http://localhost:4000/2014/04/30/when-attempting-to-fit-the-irregular-polygon-of-nature-into-the-square-hole-of-theory-all-researchers-face-a-strong-temptation-to-lop-off-the-messy-corners/"/>
+   <updated>2014-04-30T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2014/04/30/when-attempting-to-fit-the-irregular-polygon-of-nature-into-the-square-hole-of-theory-all-researchers-face-a-strong-temptation-to-lop-off-the-messy-corners</id>
+   <content type="html">&lt;p&gt;the crisis in the social sciences:&lt;/p&gt;
+&lt;p&gt;http://www.psmag.com/navigation/health-and-behavior/can-social-scientists-save-themselves-human-behavior-78858/&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Text refs to bibtex</title>
+   <link href="http://localhost:4000/latex/2014/04/09/text-refs-to-bibtex/"/>
+   <updated>2014-04-09T00:00:00-04:00</updated>
+   <id>http://localhost:4000/latex/2014/04/09/text-refs-to-bibtex</id>
+   <content type="html">&lt;p&gt;I wanted to import all the refs from an article into my bibtex library. This tool made it pretty easy: &lt;a title=&quot;This tool made it easy.&quot; href=&quot;http://text2bib.economics.utoronto.ca/index.php/index/convert&quot;&gt;http://text2bib.economics.utoronto.ca/index.php/index/convert&lt;/a&gt;. I just copy-pasted the refs from the fulltext of the article I was reading. Removed quotation marks, and that was pretty much it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SDU and Aarhus</title>
+   <link href="http://localhost:4000/news/2014/03/19/sdu-and-aarhus/"/>
+   <updated>2014-03-19T00:00:00-04:00</updated>
+   <id>http://localhost:4000/news/2014/03/19/sdu-and-aarhus</id>
+   <content type="html">&lt;p&gt;Had a fun and interesting week visiting a couple great departments (SDU Political Science and &lt;span style=&quot;text-decoration: underline;&quot;&gt;Journalism&lt;/span&gt; and Aarhus Political Science Denmark). Thanks especially to &lt;a href=&quot;http://findresearcher.sdu.dk:8080/portal/da/person/eri&quot;&gt;Erik Albaek&lt;/a&gt; and &lt;a href=&quot;http://pure.au.dk/portal/en/persons/id(76e88e37-bfad-4fe2-923e-51cd3022b0d2).html&quot;&gt;Rune Slothuus&lt;/a&gt; for hosting me.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>very accessible review on "matching methods for causal inference"</title>
+   <link href="http://localhost:4000/2014/02/12/very-accessible-review-on-matching-methods-for-causal-inference/"/>
+   <updated>2014-02-12T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2014/02/12/very-accessible-review-on-matching-methods-for-causal-inference</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://biostat.jhsph.edu/~estuart/Stuart10.StatSci.pdf&quot;&gt;Stuart, E. A. (2010). Matching methods for causal inference: A review and a look forward. &lt;em&gt;Statistical science: a review journal of the Institute of Mathematical Statistics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(1), 1.&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Piece on cultural and economic conservatism accepted in JPSP</title>
+   <link href="http://localhost:4000/2014/01/26/piece-on-cultural-and-economic-conservatism-accepted-in-jpsp/"/>
+   <updated>2014-01-26T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2014/01/26/piece-on-cultural-and-economic-conservatism-accepted-in-jpsp</id>
+   <content type="html">&lt;p&gt;&lt;!--StartFragment--&gt;Malka, A., Soto, C., Inzlicht, M., Lelkes, Y. (Forthcoming) Do Needs for Security and Certainty Predict Cultural and Economic Conservatism? A Cross-National Analysis. \emph{Journal of Personality and Social Psychology.}&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Do Needs for Security and Certainty Predict Cultural and Economic Conservatism? A Cross-National Analysis&quot; href=&quot;https://dl.dropboxusercontent.com/u/42416194/articles/Malka-Soto-Inzlicht-Lelkes-in%20press-JPSP.pdf&quot;&gt;Malka-Soto-Inzlicht-Lelkes-in press-JPSP-1-27-14&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fading in survey questions to reduce satisficing</title>
+   <link href="http://localhost:4000/surveys/2013/09/18/fading-in-survey-questions-to-reduce-satisficing/"/>
+   <updated>2013-09-18T00:00:00-04:00</updated>
+   <id>http://localhost:4000/surveys/2013/09/18/fading-in-survey-questions-to-reduce-satisficing</id>
+   <content type="html">&lt;p&gt;Fading in questions seems to lead to better data quality as it slows people down. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.danachandler.com/files/kapcha.pdf&quot; title=&quot;Preventing Satisﬁcing in Online Surveys: A “Kapcha” to Ensure Higher Quality Data&quot;&gt;Preventing Satisﬁcing in Online Surveys: A “Kapcha” to Ensure Higher Quality Data&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Code and Data for the Social Sciences: A Practitioner's Guide</title>
+   <link href="http://localhost:4000/2013/09/11/code-and-data-for-the-social-sciences-a-practitioners-guide/"/>
+   <updated>2013-09-11T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2013/09/11/code-and-data-for-the-social-sciences-a-practitioners-guide</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf&quot;&gt;Useful primer on keeping your code and data in order, written by UChicago's Gentzkow and Shapiro &lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Insert word count into sweave/knitr documents</title>
+   <link href="http://localhost:4000/latex/r/2013/08/15/insert-word-count-into-sweaveknitr-documents/"/>
+   <updated>2013-08-15T00:00:00-04:00</updated>
+   <id>http://localhost:4000/latex/r/2013/08/15/insert-word-count-into-sweaveknitr-documents</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://tex.stackexchange.com/questions/44618/dynamically-count-and-return-number-of-words-in-a-section&quot;&gt;useful trick found on stackexchange&lt;br /&gt;
+&lt;/a&gt;&lt;br /&gt;
+1. install texcount and enable &lt;a href=&quot;http://wiki.contextgarden.net/Write18&quot;&gt;write18&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;2. add this to your preamble:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;\newcommand\wordcount{&lt;br /&gt;
+\immediate\write18{texcount -sub=section \jobname.tex | grep &quot;Section&quot; | sed -e 's/+.*//' | sed -n \thesection p &amp;gt; 'count.txt'}&lt;br /&gt;
+(\input{count.txt}words)}&lt;/p&gt;
+&lt;p&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3. Insert the following into your rnw file, changing myfile to the name of your rnw file:&lt;br /&gt;
+&lt;code&gt; \makeatletter\@@input|&quot;echo `texcount -1 myfile.tex`| cut -c1-4&quot;\makeatother&lt;/code&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Statex: extracts statistics from R objects right into latex.</title>
+   <link href="http://localhost:4000/2013/08/13/statex-extracts-statistics-from-r-objects-right-into-latex/"/>
+   <updated>2013-08-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2013/08/13/statex-extracts-statistics-from-r-objects-right-into-latex</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/SachaEpskamp/staTeX&quot; title=&quot;Repository&quot;&gt;https://github.com/SachaEpskamp/staTeX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From the description:&lt;br /&gt;
+This package can be used to extract and print statistical results in a TeX format for easy inclusion in Sweave.&lt;/p&gt;
+&lt;p&gt;Take a t-test.&lt;br /&gt;
+&lt;code&gt;&lt;br /&gt;
+t1 &lt;- t.test(dv~group,var.equal=T)&lt;br /&gt;
+&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Input it into sweave/knitr&lt;br /&gt;
+&lt;code&gt;&lt;br /&gt;
+\Sexpr{st(t1)}&lt;br /&gt;
+&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Get this: t(334) =1.72, p &lt; 0.01.&lt;/p&gt;
+&lt;p&gt;not bad and works with a number of objects--lm, anova, chi-square.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two super-useful recently-discovered R packages to covert regression models to latex</title>
+   <link href="http://localhost:4000/2013/02/16/two-super-useful-recently-discovered-r-packages-to-covert-regression-models-to-latex/"/>
+   <updated>2013-02-16T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2013/02/16/two-super-useful-recently-discovered-r-packages-to-covert-regression-models-to-latex</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://cran.r-project.org/web/packages/stargazer/stargazer.pdf&quot;&gt;Stargazer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cran.r-project.org/web/packages/texreg/texreg.pdf&quot;&gt;Texreg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Both handle a wide range of models, although there are some differences. Stargazer can convert multinom, for example, both convert lmer.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Affective Polarization on WaPo Wonkblog</title>
+   <link href="http://localhost:4000/2013/01/07/affective-polarization-on-wapo/"/>
+   <updated>2013-01-07T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2013/01/07/affective-polarization-on-wapo</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.washingtonpost.com/blogs/wonkblog/wp/2013/01/06/the-words-hurt-model-of-polarization/?wprss=rss_ezra-klein &quot;&gt;wapo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://themonkeycage.org/blog/2013/01/07/f-bombs-and-political-polarization/&quot;&gt;and link from monkey cage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://themonkeycage.org/blog/2013/01/07/f-bombs-and-political-polarization/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Affective Polarization published and in the news</title>
+   <link href="http://localhost:4000/2012/09/28/affective-polarization-published-and-in-the-news/"/>
+   <updated>2012-09-28T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/09/28/affective-polarization-published-and-in-the-news</id>
+   <content type="html">&lt;p&gt;Here's the gated poq article:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://poq.oxfordjournals.org/content/early/2012/09/15/poq.nfs038.full.pdf&quot;&gt;http://poq.oxfordjournals.org/content/early/2012/09/15/poq.nfs038.full.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and some &quot;international&quot; coverage:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jezebel.com/5947176/republicans-and-democrats-are-less-tolerant-of-interparty-marriage&quot;&gt;http://www.slate.fr/monde/62445/republicain-democrate-couple-possible&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.motherjones.com/kevin-drum/2012/09/you-hate-me-you-really-hate-me &quot;&gt;http://www.motherjones.com/kevin-drum/2012/09/you-hate-me-you-really-hate-me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jezebel.com/5947176/republicans-and-democrats-are-less-tolerant-of-interparty-marriage &quot;&gt;http://jezebel.com/5947176/republicans-and-democrats-are-less-tolerant-of-interparty-marriage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.theatlantic.com/politics/archive/2012/09/really-would-you-let-your-daughter-marry-a-democrat/262959/&quot;&gt;http://www.theatlantic.com/politics/archive/2012/09/really-would-you-let-your-daughter-marry-a-democrat/262959/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Anonymity piece finally fully accepted into JESP</title>
+   <link href="http://localhost:4000/2012/07/03/anonymity-piece-finally-fully-accepted-into-jesp/"/>
+   <updated>2012-07-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/07/03/anonymity-piece-finally-fully-accepted-into-jesp</id>
+   <content type="html">&lt;p&gt;:)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dissertation defended, no revisions.</title>
+   <link href="http://localhost:4000/2012/05/29/dissertation-defended-no-revisions/"/>
+   <updated>2012-05-29T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/05/29/dissertation-defended-no-revisions</id>
+   <content type="html">&lt;p&gt;i'm a bonefide social scientist apparently.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>POQ Piece: Affect, not Ideology: A Social Identity Perspective on Polarization</title>
+   <link href="http://localhost:4000/2012/04/22/poq-piece-affect-not-ideology-a-social-identity-perspective-on-polarization/"/>
+   <updated>2012-04-22T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/04/22/poq-piece-affect-not-ideology-a-social-identity-perspective-on-polarization</id>
+   <content type="html">&lt;p&gt;Edits were sent for proofing to POQ. Hence, &lt;a href=&quot;http://ylelkes.com/wp-content/uploads/2012/04/affect.polar_final_4_3_12-1-11.docx&quot;&gt;In Press.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot; align=&quot;CENTER&quot;&gt;&lt;span style=&quot;font-family: 'Times New Roman', serif;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;Abstract&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: 'Times New Roman', serif;&quot;&gt;&lt;span style=&quot;font-size: small;&quot;&gt;The current debate over the extent of polarization among the American mass public focuses on the extent to which policy attitudes have moved. While “maximalists” claim that partisans’ views on policies have become more extreme over time (Abramowitz 2010), “minimalists” (Fiorina and Abrams 2009) respond that the majority of Americans remain centrist, and that what little centrifugal movement has occurred reflects sorting, i.e., the increased association between partisanship and ideology. We argue in favor of an alternative definition of polarization, based on the classic concept of social distance (Bogardus 1947). Using data from a variety of sources, we demonstrate that both Republicans and Democrats increasingly dislike, even loathe their opponents. We also find that partisan affect is only weakly founded in policy attitudes; thus movement in policy attitudes may not explain affective polarization. The more plausible account lies in the nature of political campaigns; exposure to messages attacking the out-group confirms partisans’ biased views of their opponents. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ari Malka on religion and politics</title>
+   <link href="http://localhost:4000/2012/04/12/ari-malka-on-religion-and-politics/"/>
+   <updated>2012-04-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/04/12/ari-malka-on-religion-and-politics</id>
+   <content type="html">&lt;p&gt;My friend and frequent collaborator Ariel Malka, a professor of psychology at Yeshiva University, just wrote an op-ed at Fox News.com:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://www.foxnews.com/opinion/2012/04/12/are-religious-americans-always-conservative/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Are religious Americans always conservative?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Off to Chicago</title>
+   <link href="http://localhost:4000/2012/04/11/off-to-chicago/"/>
+   <updated>2012-04-11T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/04/11/off-to-chicago</id>
+   <content type="html">&lt;p&gt;Headed to &lt;a href=&quot;http://www.mpsanet.org/&quot;&gt;MPSA&lt;/a&gt; to present papers on these panels:&lt;/p&gt;
+&lt;table id=&quot;Results1&quot; border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://conference.mpsanet.org/OnlineDirectory/Search.aspx?section=28&amp;amp;session=27&quot;&gt;28-27 Elite Influence on Public Opinion&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table id=&quot;Results1&quot; border=&quot;0&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;http://conference.mpsanet.org/OnlineDirectory/Search.aspx?section=1&amp;amp;session=18&quot;&gt;1-18 Comparative Perspectives on Immigrants and Immigration&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Political Psych piece on religiosity, conservatism, and political engagement is out</title>
+   <link href="http://localhost:4000/2012/04/04/political-psych-piece-on-religiosity-conservatism-and-political-engagement-is-out/"/>
+   <updated>2012-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/04/04/political-psych-piece-on-religiosity-conservatism-and-political-engagement-is-out</id>
+   <content type="html">&lt;p&gt;Our article is officially published:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ylelkes.com/wp-content/uploads/2012/04/Malka-et-al.-2012-Political-Psychology-2.pdf&quot;&gt;Malka, A., Lelkes, Y., Srivastava, S., Cohen, A. B., &amp;amp; Miller, D. T. (2012). The association of religiosity and political conservatism: The role of political engagement. Political Psychology, 33, 275-299.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There was a blurb about this a little while back at &lt;a href=&quot;http://bps-research-digest.blogspot.com/2011/03/is-god-always-on-right.html&quot;&gt;BPS Research Digest&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ggplot and directlabels</title>
+   <link href="http://localhost:4000/2012/04/04/ggplot-and-directlabels/"/>
+   <updated>2012-04-04T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2012/04/04/ggplot-and-directlabels</id>
+   <content type="html">&lt;p&gt;i'm not a fan of legends in graphs. in my mind, lines that are labeled directly are easier to read. This is done easily with &lt;a href=&quot;http://directlabels.r-forge.r-project.org/&quot;&gt;&lt;tt&gt;directlabels&lt;/tt&gt;&amp;nbsp;package&lt;/a&gt;&amp;nbsp;by Toby Dylan Hocking.&lt;/p&gt;
+&lt;p&gt;Just create a ggplot object and wrap it in the command directlabels().&lt;/p&gt;
+&lt;p&gt;I used it, for example, to label a plot of abortion preferences overtime by liberal-conservative self-placement. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ylelkes.com/wp-content/uploads/2012/04/abortionbyid1.jpeg&quot;&gt;&lt;img src=&quot;assets/abortionbyid1.jpeg&quot; alt=&quot;&quot; title=&quot;abortionbyid&quot; width=&quot;4500&quot; height=&quot;1575&quot; class=&quot;aligncenter size-full wp-image-99&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[sourcecode language=&quot;plain&quot;]&lt;br /&gt;
+abortion &amp;lt;- na.omit(ddply(.data=data, .variables=.(year,ideology), .fun=summarise, wtd.mean=mean(x=abortion,na.rm=T,weights=vcf0009a)))&lt;br /&gt;
+library(directlabels)&lt;br /&gt;
+library(ggplot2)&lt;br /&gt;
+direct.label(ggplot(abortion, aes(x = year, y = wtd.mean, colour=ideology)) + geom_line() + theme_bw() + opts(axis.title.x = theme_text(size = 12, vjust = .25)) + ylab(&amp;quot;Support for Abortion Rights&amp;quot;) + opts(legend.position=&amp;quot;&amp;quot;)+ scale_x_continuous(limits=c(1972,2015),breaks=seq(from=1972,to=2008,by=6))+xlab(&amp;quot;Year&amp;quot;),&amp;quot;last.points&amp;quot;)&lt;br /&gt;
+[/sourcecode]&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Good week for publications!</title>
+   <link href="http://localhost:4000/2012/02/02/good-week-for-publications/"/>
+   <updated>2012-02-02T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2012/02/02/good-week-for-publications</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0CCwQFjAA&amp;amp;url=http%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2012%2F01%2F26%2F1117557109.abstract&amp;amp;ei=uc8qT4vIJcLZiALeoPmmCg&amp;amp;usg=AFQjCNF5RNlnSbjffV6m5qfmw3RMmCWk0w&amp;amp;sig2=A1YnTzlSDxqwYa3wU9w1oQ&quot;&gt;Our PNAS paper on Jesus and projection came out&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://ylelkes.com/wp-content/uploads/2012/02/anonymity-jesp-lelkes-2-11.pdf&quot;&gt;And our piece on anonymity, motivation, and accuracy was accepted into JESP with minor revisions&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ISPP Presentation</title>
+   <link href="http://localhost:4000/0206/07/16/ispp/"/>
+   <updated>0206-07-16T00:00:00-05:00</updated>
+   <id>http://localhost:4000/0206/07/16/ispp</id>
+   <content type="html">&lt;p&gt;In addition to eating lots of perogies, I presented &lt;a href=&quot;https://dl.dropboxusercontent.com/u/42416194/cues_nfc_pid/presentation/ispp.html&quot;&gt;this presentation&lt;/a&gt;, which is co-authored with Bert Bakker and Ariel Malka on the role of identity and motivated reasoning on the processing of party cues.&lt;/p&gt;
+</content>
+ </entry>
+ 
 
 </feed>
