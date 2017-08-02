@@ -12,4 +12,6 @@ module Jekyll
 
   end
 
+require 'jekyll/scholar'
+
 end
