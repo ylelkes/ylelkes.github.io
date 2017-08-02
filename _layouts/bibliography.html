@@ -1,26 +1,24 @@
 ---
-layout: default
-no_sidebar: true
 ---
- 
-<h1 class="large-bottom">{{ page.title }}</h1>
-<h2> {{ page.entry.citeproc}} </h2> 
-<h3>Abstract:</h3>
-		<div id="main" class="span-{% if page.no_sidebar %}24{% else %}17{% endif %}">
-{{ page.entry.abstract }} <br />
-    </div>
-<br />
-<b>Downloads:</b>
-{% if page.entry.pdflink1 == empty or page.entry.pdflink1 == nil %}
-{% else %}
-<a href="{{page.entry.pdflink1}}">PDF</a>
-{% endif %}
-{% if page.entry.pptlink1 == empty  or page.entry.pptlink1 == nil %}
-{% else %}
-, <a href="{{page.entry.pptlink1}}">PPT</a> 
-{% endif %}
-<br />
-<h3>BibTeX:</h3>
-{% highlight bash tabsize=2 %}
- {{ page.entry.bibtex }} 
-{% endhighlight %
+{{reference}}
+
+<div id="{{key}}-materials">
+  <ul class="nav nav-pills">
+    {% if entry.abstract %}
+    <li><a data-toggle="collapse" href="#{{key}}-abstract">Abstract</a></li>
+    {% endif %}
+
+    <li><a data-toggle="collapse" href="#{{key}}-bibtex">BibTeX</a></li>
+
+    {% if link %}
+    <li><a href="{{link}}">Download</a></li>
+    {% endif %}
+  </ul>
+
+  {% if entry.abstract %}
+  <p id="{{key}}-abstract" class="collapse">{{entry.abstract}}</p>
+  {% endif %}
+
+  <pre id="{{key}}-bibtex" class="pre pre-scrollable collapse">{{entry.bibtex}}</pre>
+
+</div>

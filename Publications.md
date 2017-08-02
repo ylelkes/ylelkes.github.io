@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Publications
+title: My Publications
 ---
+
+{{ page.title }}
+================
 
 {% bibliography %}
 
