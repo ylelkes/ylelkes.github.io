@@ -28,7 +28,7 @@ namespace :git do
   task :check_git do
     unless git_clean?
       puts "Uncommitted changes. Commit or discard your changes and run deploy again."
-      exit 1
+    #  exit 1
     end
   end
 
