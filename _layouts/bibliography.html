@@ -3,8 +3,9 @@ layout: default
 no_sidebar: true
 ---
  
-<h1> class="large-bottom">{{ page.title }}</h1>
+<h1 class="large-bottom">{{ page.title }}</h1>
 <h2> {{ page.entry.citeproc}} </h2> 
+
 <h3>Abstract:</h3>
 		<div id="main" class="span-{% if page.no_sidebar %}24{% else %}17{% endif %}">
 {{ page.entry.abstract }} <br />
@@ -19,8 +20,9 @@ no_sidebar: true
 {% else %}
 , <a href="{{page.entry.pptlink1}}">PPT</a> 
 {% endif %}
+
 <br />
 <h3>BibTeX:</h3>
 {% highlight bash tabsize=2 %}
  {{ page.entry.bibtex }} 
-{% endhighlight %
+{% endhighlight %}
