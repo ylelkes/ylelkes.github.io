@@ -17,7 +17,9 @@ scholar:
   sort_by: author
   group_by: year
   group_order: descending
-  repository: ./publishedpapers
+  repository: pdf
+  bibliography_template: bibliography
+ 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
