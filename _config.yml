@@ -28,6 +28,7 @@ analytics :
   google : 
       tracking_id : 'UA-52779584-1'
 exclude: [Gemfile, Rakefile, README]
+gems:
   - jekyll-paginate
   - redcarpet
   - jekyll-gist
