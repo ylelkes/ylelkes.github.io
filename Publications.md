@@ -2,20 +2,20 @@
 layout: page
 title: Publications
 ---
-<div class="pure-g-r" id="layout">
-  <div class="pure-u-1-2">
-    <div class="l-left">
-    <h1> Publications</h1>
-    </div>
-  </div>
-    <div class="pure-u-1-2">
-      <div class="l-right">
-	<p>
-	  <a class="pure-button" href="{{site.baseurl}}/publications/index.html">By Year</a>
-	  <a class="pure-button" href="{{site.baseurl}}/publications/index_bytype.html">By Type</a>	  
-      </p>
-      </div>
-    </div>
+##<div class="pure-g-r" id="layout">
+#  <div class="pure-u-1-2">
+#    <div class="l-left">
+#    <h1> Publications</h1>
+#    </div>
+#  </div>
+#    <div class="pure-u-1-2">
+#      <div class="l-right">
+#	<p>
+#	  <a class="pure-button" href="{{site.baseurl}}/publications/index.html">By Year</a>
+#	  <a class="pure-button" href="{{site.baseurl}}/publications/index_bytype.html">By Type</a>	  
+#      </p>
+#      </div>
+#    </div>
 
 {% bibliography %}
 
