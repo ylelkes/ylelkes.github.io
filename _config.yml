@@ -12,6 +12,7 @@ highlighter: rouge
 paginate:     5
 scholar:
   style: apa
+  source: ./_bibliography
   bibliography: bibliography.bib
   group_by: year
   group_order: descending
