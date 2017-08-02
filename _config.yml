@@ -18,7 +18,7 @@ scholar:
   group_by: year
   group_order: descending
   repository: pdf
-  bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}{{links.pdf}}
+  bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}{{links}}
 
  
 # Settings for analytics helper
