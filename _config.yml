@@ -12,7 +12,8 @@ highlighter: rouge
 paginate:     5
 scholar:
   style: apa
-  bibliography_template: bibliography
+  bibliography_template: {{reference}}    <li><a href="{{link}}">Download</a></li>
+ 
   source: ./_bibliography
   bibliography: bibliography.bib
   sort_by: author
