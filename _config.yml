@@ -23,3 +23,5 @@ analytics :
   provider : google
   google : 
       tracking_id : 'UA-52779584-1'
+exclude: [Gemfile, Rakefile, README]
+
