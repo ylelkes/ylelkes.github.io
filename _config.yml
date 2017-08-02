@@ -28,4 +28,10 @@ analytics :
   google : 
       tracking_id : 'UA-52779584-1'
 exclude: [Gemfile, Rakefile, README]
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
+  
+
 
