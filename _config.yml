@@ -12,13 +12,13 @@ highlighter: rouge
 paginate:     5
 scholar:
   style: apa
+  bibliography_template: bibliography
   source: ./_bibliography
   bibliography: bibliography.bib
   sort_by: author
   group_by: year
   group_order: descending
   repository: pdf
-  bliography_template: <abbr>[{{key}}]</abbr>{{reference}} <a class="pdficon" href="{{link}}">PDF</a>
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
