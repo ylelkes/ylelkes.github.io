@@ -18,7 +18,8 @@ scholar:
   group_by: year
   group_order: descending
   repository: pdf
-  bibliography_template: bibliography
+  bibliography_template: <abbr>[{{key}}]</abbr>{{reference}}{{links.pdf}}
+
  
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
