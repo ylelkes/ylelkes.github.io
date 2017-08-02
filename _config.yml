@@ -18,7 +18,7 @@ scholar:
   group_by: year
   group_order: descending
   repository: pdf
-  bliography_template: <abbr>[{{key}}]</abbr>{{reference}} <a class="pdficon" href="{{links.pdf}}">PDF</a>
+  bliography_template: <abbr>[{{key}}]</abbr>{{reference}} <a class="pdficon" href="{{link}}">PDF</a>
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
 # Set 'provider' to false to turn analytics off globally.
