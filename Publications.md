@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: page
 
 title: My Publications
 ---
 
-{{ page.title }}
-================
 
 {% bibliography %}
 
