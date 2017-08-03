@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: My Publications
+title: Publications 
 ---
 
 
