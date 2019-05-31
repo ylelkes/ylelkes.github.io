@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Annual Review of Political Science*"
 tags: ["affective polarization", "american", "ideology", "mypubs", "partisanship", "social identity"]
+url_pdf: "https://www.dropbox.com/s/2q5zw8mtnpuczr5/annurev-polisci-051117-073034.pdf?dl=1"
 ---
 

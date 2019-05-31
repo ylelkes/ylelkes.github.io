@@ -9,5 +9,6 @@ featured: false
 publication: "*Journalism and Mass Communication Quarterly*"
 tags: ["evidence type", "issue publics", "motivated reasoning", "mypubs", "selective exposure"]
 doi: "10.1177/1077699016654681"
+url_pdf: "https://www.dropbox.com/s/wq7nn1fm5k8op5d/brenesperalta2017.pdf?dl=1"
 ---
 
