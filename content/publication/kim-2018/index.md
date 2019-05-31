@@ -8,7 +8,7 @@ abstract: "Race of interviewer effects are presumed to occur in surveys because 
 featured: false
 publication: "*International Journal of Public Opinion Research*"
 tags: ["methods","survey"]
-url_pdf: "https://www.dropbox.com/s/lrge2vckzkkyidp/kimetal2018.pdf?dl=0"
+url_pdf: "https://www.dropbox.com/s/lrge2vckzkkyidp/kimetal2018.pdf?dl=1"
 doi: "10.1093/ijpor/edy005"
 ---
 

@@ -8,7 +8,7 @@ abstract: "Recent work has explored how individual and institutional factors aff
 featured: false
 publication: "*Political Communication*"
 tags: ["legitimacy gap", "media bias", "mypubs", "partisan news", "trust"]
-url_pdf: "http://dx.doi.org/10.1080/10584609.2015.1117031 https://doi.org/10.1080/10584609.2015.1117031"
+url_pdf: "https://www.dropbox.com/s/l29r519jcf2srze/Lelkes%20-%202016%20-%20Winners%2C%20Losers%2C%20and%20the%20Press%20The%20Relationship%20Between%20Political%20Parallelism%20and%20the%20Legitimacy%20Gap.pdf?dl=1"
 doi: "10.1080/10584609.2015.1117031"
 ---
 

@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: "The presence of an African-American candidate on the ballot running for President in 2008 raises the possibility that the election outcome might have been influenced by anti-African-American racism among voters. This paper uses data from the Associated Press-Yahoo! News-Stanford University survey to explore this possibility, using measures of both explicit racism (symbolic racism) and implicit racism (the Affect Misattribution Procedure). The parameters of multinomial logistic regression equations were estimated to test the hypotheses that racism might have behaved differently on election day than they would have had racism been eliminated. The findings suggest that racism's impact on the election outcome could have been substantial, by causing (1) people who would otherwise have voted for Obama to vote for McCain, for a nonmajor party candidate, or not to vote at all, (2) people who would not have voted to vote for McCain instead, and (3) people who would have voted for a nonmajor party candidate to vote for McCain instead."
 featured: false
 publication: "*Public Opinion Quarterly*"
-tags: ["mypubs"]
 doi: "10.1093/poq/nfp079"
+url_pdf: "https://www.dropbox.com/s/5prb31834yw2uso/2008_poq_pasek_determinants.pdf?dl=1"
 ---
 

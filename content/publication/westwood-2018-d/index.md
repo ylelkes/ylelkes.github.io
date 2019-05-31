@@ -7,6 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Public Opinion Quarterly*"
-tags: ["mypubs"]
+url_pdf: "https://www.dropbox.com/s/owmfnp0m45y2kv5/JOPReplication.pdf?dl=1"
 ---
 

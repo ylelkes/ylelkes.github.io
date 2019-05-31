@@ -9,5 +9,6 @@ featured: false
 publication: "*British Journal of Political Science*"
 tags: ["1 this article examines", "a fundamental feature of", "around", "comparative politics", "left ideological dimension is", "mypubs", "political attitude constraint", "political ideology", "political psychology", "politics in many nations", "preference dimensions that are", "public opinion", "the relationship between two", "the right", "the world"]
 doi: "10.1017/s0007123417000072"
+url_pdf: "https://www.dropbox.com/s/48ig5tv9b1bnag9/Malka2017.pdf?dl=1"
 ---
 

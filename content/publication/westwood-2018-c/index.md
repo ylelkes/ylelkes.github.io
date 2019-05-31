@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Politics*"
 tags: ["Electoral Behavior", "Political Behavior", "Political Psychology", "Public Opinion", "mypubs"]
 doi: "10.2139/ssrn.3117054"
+url_pdf: "https://www.dropbox.com/s/mvh38lggry42czl/selexp.pdf?dl=1"
 ---
 

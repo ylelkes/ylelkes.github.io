@@ -8,5 +8,6 @@ abstract: "Many hoped that social networks would allow for the open exchange of 
 featured: false
 publication: "*Journal of Communication*"
 doi: "10.2139/ssrn.3287552"
+url_pdf: "https://www.dropbox.com/s/f580j0krt1jis42/jaidkajoc.pdf?dl=1"
 ---
 
