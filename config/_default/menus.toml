@@ -26,6 +26,6 @@
     weight = 40
 
 [[main]]
-    name = "the Democracy and Information Group"
+    name= "The Democracy and Information Group"
     url = "https://www.asc.upenn.edu/research/working-groups/democracy-information-group"
-    weight = 40
+    weight = 50

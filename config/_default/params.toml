@@ -51,8 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ylelkes@upenn.edu"
-address = "3620 Walnut Street, Philadelphia, PA 19104"
-office = "315"
+address = "3620 Walnut Street, Philadelphia, PA 19104, office #315"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
