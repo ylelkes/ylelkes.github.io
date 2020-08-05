@@ -6,6 +6,7 @@ authors: ["Yphtach Lelkes"]
 publication_types: ["2"]
 abstract: ""
 featured: false
+url_preprint: "https://www.dropbox.com/s/3nep13omd4odu92/zmaa002.pdf?dl=1"
 publication: "*Journal of Computer-Mediated Communication*"
 ---
 
