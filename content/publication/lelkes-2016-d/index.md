@@ -1,14 +1,14 @@
 ---
-title: "Winners, Losers, and the Press: The Relationship Between Political Parallelism and the Legitimacy Gap"
+title: "Mass polarization: Manifestations and measurements"
 date: 2016-01-01
-publishDate: 2019-05-30T19:19:04.738768Z
+publishDate: 2020-08-05T14:53:45.562779Z
 authors: ["Yphtach Lelkes"]
 publication_types: ["2"]
-abstract: "Recent work has explored how individual and institutional factors affect the gap in perceptions of political legitimacy between electoral winners and electoral losers, but has ignored the role that the political information environment, in general, and ideologically biased media, in particular, plays in exacerbating or diminishing this gap. By combining individual-level public opinion data in 28 countries, an expert survey on media systems, and a variety of country-level indicators, I find that higher levels of political parallelism in a country are associated with a larger winner-loser gap in institutional trust and satisfaction with democracy. The relationship is con- tingent on whether or not people are actually exposed to said media. This research, which links the study of political communication with the study of comparative political behavior, indicates that the increasing availability of partisan news around the world is a cause for concern. Keywords"
+abstract: "The debate on mass polarization is itself polarized. Some argue that the United States is in the midst of a culture war; others argue that the claims are exaggerated. As polarization is a multifaceted concept, both sides can be correct. I review four distinct manifestations of polarization that have appeared in the public opinion literature—ideological consistency, ideological divergence, perceived polarization, and affective polarization—and discuss ways in which each has been measured. Then, using longitudinal data from the American National Election Studies (ANES), I update past analyses in order to more clearly show the ways in which Americans have or have not polarized: Americans at the mass level have not diverged, nor have they become more consistent ideologically, but partisans have; perceptions of polarization have increased, but this change is driven by partisans, who increasingly dislike one another."
 featured: false
-publication: "*Political Communication*"
-tags: ["legitimacy gap", "media bias", "mypubs", "partisan news", "trust"]
-url_pdf: "https://www.dropbox.com/s/l29r519jcf2srze/Lelkes%20-%202016%20-%20Winners%2C%20Losers%2C%20and%20the%20Press%20The%20Relationship%20Between%20Political%20Parallelism%20and%20the%20Legitimacy%20Gap.pdf?dl=1"
-doi: "10.1080/10584609.2015.1117031"
+publication: "*Public Opinion Quarterly*"
+tags: ["mybib", "mypubs"]
+url_pdf: "http://poq.oxfordjournals.org/content/early/2016/03/15/poq.nfw005.abstract"
+doi: "10.1093/poq/nfw005"
 ---
 

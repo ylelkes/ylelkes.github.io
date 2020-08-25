@@ -1,7 +1,7 @@
 ---
 title: "Don't expose yourself: Discretionary exposure to political information"
 date: 2018-01-01
-publishDate: 2019-05-30T19:19:04.882334Z
+publishDate: 2020-08-05T14:53:45.673013Z
 authors: ["Gaurav Sood", "Yphtach Lelkes"]
 publication_types: ["4"]
 abstract: ""
