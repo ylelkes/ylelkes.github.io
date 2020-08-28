@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon A Krosnick | Yphtach Lelkes</title>
+    <link>/author/jon-a-krosnick/</link>
+      <atom:link href="/author/jon-a-krosnick/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jon A Krosnick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Jon A Krosnick</title>
+      <link>/author/jon-a-krosnick/</link>
+    </image>
+    
+    <item>
+      <title>Race of Interviewer Effects in Telephone Surveys Preceding the 2008 U.S. Presidential Election</title>
+      <link>/publication/kim-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

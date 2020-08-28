@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor Tompson | Yphtach Lelkes</title>
+    <link>/author/trevor-tompson/</link>
+      <atom:link href="/author/trevor-tompson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trevor Tompson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Trevor Tompson</title>
+      <link>/author/trevor-tompson/</link>
+    </image>
+    
+    <item>
+      <title>Determinants of turnout and candidate choice in the 2008 U.S. presidential election: Illuminating the impact of racial prejudice and other considerations</title>
+      <link>/publication/pasek-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/pasek-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher J. Soto on </title>
+    <link>/authors/christopher-j.-soto/</link>
+    <description>Recent content in Christopher J. Soto on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/christopher-j.-soto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are Cultural and Economic Conservatism Positively Correlated? A Large-Scale Cross-National Test</title>
+      <link>/publication/malka-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/malka-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binding Moral Foundations and the Narrowing of Ideological Conflict to the Traditional Morality Domain</title>
+      <link>/publication/soto-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/soto-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do needs for security and certainty predict cultural and economic conservatism? A cross-national analysis</title>
+      <link>/publication/malka-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/malka-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuri Kim on </title>
+    <link>/authors/nuri-kim/</link>
+    <description>Recent content in Nuri Kim on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/nuri-kim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Race of Interviewer Effects in Telephone Surveys Preceding the 2008 U.S. Presidential Election</title>
+      <link>/publication/kim-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kim-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

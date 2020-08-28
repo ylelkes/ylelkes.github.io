@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Identity on </title>
+    <link>/tags/identity/</link>
+    <description>Recent content in Identity on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More than Ideology: Conservative-Liberal Identity and Receptivity to Political Cues</title>
+      <link>/publication/malka-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/malka-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

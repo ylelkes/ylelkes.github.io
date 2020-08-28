@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kokil Jaidka | Yphtach Lelkes</title>
+    <link>/author/kokil-jaidka/</link>
+      <atom:link href="/author/kokil-jaidka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kokil Jaidka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Kokil Jaidka</title>
+      <link>/author/kokil-jaidka/</link>
+    </image>
+    
+    <item>
+      <title>National news outlets are favored over local news outlets in news aggregator results</title>
+      <link>/publication/fischer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fischer-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brevity is the Soul of Twitter: The Constraint Affordance and Political Discussion</title>
+      <link>/publication/jaidka-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jaidka-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

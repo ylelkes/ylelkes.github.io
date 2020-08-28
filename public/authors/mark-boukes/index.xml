@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Boukes on </title>
+    <link>/authors/mark-boukes/</link>
+    <description>Recent content in Mark Boukes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/mark-boukes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls</title>
+      <link>/publication/de-vreese-2017-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/de-vreese-2017-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

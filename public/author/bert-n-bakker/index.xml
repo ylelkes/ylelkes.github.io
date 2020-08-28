@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bert N Bakker | Yphtach Lelkes</title>
+    <link>/author/bert-n-bakker/</link>
+      <atom:link href="/author/bert-n-bakker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bert N Bakker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Bert N Bakker</title>
+      <link>/author/bert-n-bakker/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Partisan Cue Receptivity: Tests of Predictions from the Bounded Rationality and Expressive Utility Perspectives.</title>
+      <link>/publication/bakker-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bakker-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selling ourselves short? How abbreviated measures of personality change the way think about personality and politics</title>
+      <link>/publication/bakker-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bakker-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

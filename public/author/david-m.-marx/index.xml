@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David M. Marx | Yphtach Lelkes</title>
+    <link>/author/david-m.-marx/</link>
+      <atom:link href="/author/david-m.-marx/index.xml" rel="self" type="application/rss+xml" />
+    <description>David M. Marx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>David M. Marx</title>
+      <link>/author/david-m.-marx/</link>
+    </image>
+    
+    <item>
+      <title>Complete anonymity compromises the accuracy of self-reports</title>
+      <link>/publication/lelkes-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/lelkes-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

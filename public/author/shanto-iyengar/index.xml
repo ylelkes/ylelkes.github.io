@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shanto Iyengar | Yphtach Lelkes</title>
+    <link>/author/shanto-iyengar/</link>
+      <atom:link href="/author/shanto-iyengar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shanto Iyengar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Shanto Iyengar</title>
+      <link>/author/shanto-iyengar/</link>
+    </image>
+    
+    <item>
+      <title>The Origins and Consequences of Affective Polarization in the United States</title>
+      <link>/publication/iyengar-2018/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/iyengar-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect</title>
+      <link>/publication/lelkes-2017-c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/lelkes-2017-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affect, not ideology: A social identity perspective on polarization</title>
+      <link>/publication/iyengar-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/iyengar-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

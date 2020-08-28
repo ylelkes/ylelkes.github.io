@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Inzlicht | Yphtach Lelkes</title>
+    <link>/author/michael-inzlicht/</link>
+      <atom:link href="/author/michael-inzlicht/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Inzlicht</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Michael Inzlicht</title>
+      <link>/author/michael-inzlicht/</link>
+    </image>
+    
+    <item>
+      <title>Do needs for security and certainty predict cultural and economic conservatism? A cross-national analysis</title>
+      <link>/publication/malka-2014-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/malka-2014-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

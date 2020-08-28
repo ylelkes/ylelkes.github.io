@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political Behavior on </title>
+    <link>/tags/political-behavior/</link>
+    <description>Recent content in Political Behavior on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/political-behavior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public</title>
+      <link>/publication/westwood-2018-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/westwood-2018-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

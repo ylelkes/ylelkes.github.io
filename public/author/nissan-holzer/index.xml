@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nissan Holzer | Yphtach Lelkes</title>
+    <link>/author/nissan-holzer/</link>
+      <atom:link href="/author/nissan-holzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nissan Holzer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>Nissan Holzer</title>
+      <link>/author/nissan-holzer/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking the rigidity of the right model: Three suboptimal methodological practices and their implications</title>
+      <link>/publication/malka-2017-rethinking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/malka-2017-rethinking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

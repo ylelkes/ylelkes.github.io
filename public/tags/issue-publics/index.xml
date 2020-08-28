@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>issue publics on </title>
+    <link>/tags/issue-publics/</link>
+    <description>Recent content in issue publics on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/issue-publics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selective Exposure to Balanced Content and Evidence Type: The Case of Issue and Non-Issue Publics about Climate Change and Health Care</title>
+      <link>/publication/brenes-peralta-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/brenes-peralta-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean Fischer on </title>
+    <link>/authors/sean-fischer/</link>
+    <description>Recent content in Sean Fischer on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/sean-fischer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>National news outlets are favored over local news outlets in news aggregator results</title>
+      <link>/publication/fischer-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fischer-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National news outlets are favored over local news outlets in news aggregator results</title>
+      <link>/publication/lelkes-2020-bigger/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lelkes-2020-bigger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

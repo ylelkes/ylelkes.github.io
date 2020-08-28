@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>public opinion | Yphtach Lelkes</title>
+    <link>/tag/public-opinion/</link>
+      <atom:link href="/tag/public-opinion/index.xml" rel="self" type="application/rss+xml" />
+    <description>public opinion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/diglogo.png</url>
+      <title>public opinion</title>
+      <link>/tag/public-opinion/</link>
+    </image>
+    
+    <item>
+      <title>Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public</title>
+      <link>/publication/westwood-2018-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/westwood-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy over party: comparing the effects of candidate ideology and party on affective polarization</title>
+      <link>/publication/lelkes-2019/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lelkes-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Cultural and Economic Conservatism Positively Correlated? A Large-Scale Cross-National Test</title>
+      <link>/publication/malka-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/malka-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
